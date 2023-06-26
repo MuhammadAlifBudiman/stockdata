@@ -1,14 +1,13 @@
 # Stock Data
 Stock Data merupakan website bertipe Inventory Control yang berfungsi untuk mengelola stok barang, di mana website ini akan bermanfaat bagi seorang Store Operation seperti klien kami. Klien kami, Annisa Mufidah, bekerja sebagai store operation di mana ia bertugas untuk memastikan bahwa barang-barang seperti Unilever, Oreal, dan sebagainya bisa terlihat di marketplace seperti Shopee, Tokopedia, dan sebagainya. Adapun Primary Features dari website kami ialah: 
-<ul>
-  <li>Kategori barang, </li>
-  <li>CRUD produk, </li>
-  <li>Search bar, </li> 
-  <li>Notifikasi barang kosong, </li> 
-  <li>Sorting. </li> 
-</ul>
+* Kategori barang,
+* CRUD produk,
+* Search bar,
+* Notifikasi barang kosong,
+* Sorting.
 
- Berikut adalah URL dari website kami: <a href="http://stockdata.great-site.net/" target="_blank">StockData</a>
+ Berikut adalah URL dari website kami: [StockData](http://stockdata.great-site.net/)
+
  
  Website ini dibuat oleh Kelompok yang beranggotakan:
  
@@ -25,6 +24,7 @@ Stock Data merupakan website bertipe Inventory Control yang berfungsi untuk meng
  4. Nada Razani Musyaffa: Backend dari fitur Hapus Barang; Membuat mockup website; Merekam meet dengan klien.
 
 
-User Manual: https://github.com/NadaRazaniMusyaffa/HCIProject/blob/6524d70b51a7488dcbaf7d36f9eff300ea2bbe5c/doc/spec/Stock%20Data%20User%20Manual.pdf
+User Manual: [UserManual](https://github.com/NadaRazaniMusyaffa/HCIProject/blob/6524d70b51a7488dcbaf7d36f9eff300ea2bbe5c/doc/spec/Stock%20Data%20User%20Manual.pdf)
 
-App Demo : https://youtube.com/playlist?list=PL4C11LBGjPw-j_CCohFMjMCudMsx4wbge
+
+App Demo : [AppDemo](https://youtube.com/playlist?list=PL4C11LBGjPw-j_CCohFMjMCudMsx4wbge)
